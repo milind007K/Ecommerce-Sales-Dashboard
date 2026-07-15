@@ -13,7 +13,18 @@ An interactive **Ecommerce Sales Dashboard** built using **Microsoft Excel** to 
 ![Dashboard](dashboard.png)
 
 ---
+## 📑 Table of Contents
 
+- [Dashboard Preview](#-dashboard-preview)
+- [Project Overview](#-project-overview)
+- [Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis)
+- [Features](#-features)
+- [Tools Used](#-tools-used)
+- [Dataset](#-dataset)
+- [Business Insights](#-business-insights)
+- [Project Files](#-project-files)
+- [How to Use](#-how-to-use)
+- [Author](#-author)
 ## 🚀 Project Overview
 
 This dashboard helps businesses monitor key performance indicators (KPIs) and gain actionable insights from sales data.
