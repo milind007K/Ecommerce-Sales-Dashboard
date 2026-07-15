@@ -8,7 +8,7 @@ An interactive **Ecommerce Sales Dashboard** built using **Microsoft Excel** to 
 
 > Upload your dashboard image inside the repository and rename it to **dashboard.png**
 
-![Dashboard](dashboard-esa.png)
+![Dashboard](dashboard.png)
 
 ---
 
