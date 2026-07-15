@@ -90,7 +90,14 @@ Superstore Sales Dataset
 │── dashboard-esa.png
 │── README.md
 ```
+## 🚀 How to Use
 
+1. Download **Ecommerce analysis.xlsx** from this repository.
+2. Open the file using **Microsoft Excel** (Excel 2016 or later is recommended).
+3. If Excel displays a security warning, click **Enable Editing**.
+4. Navigate to the **Dashboard** sheet.
+5. Explore the KPIs, charts, and visualizations.
+6. Use the slicers (if available) to filter and analyze the data.
 ---
 
 ## 👨‍💻 Author
