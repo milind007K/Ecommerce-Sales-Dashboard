@@ -53,6 +53,15 @@ This dashboard helps businesses monitor key performance indicators (KPIs) and ga
 - Interactive Dashboard Design
 
 ---
+## 📊 Dashboard Highlights
+
+- KPI Cards (Sales, Profit, Orders, Quantity, Profit Margin)
+- Sales and Profit Analysis
+- Category-wise Profit Analysis
+- Category-wise Sales Share
+- Year-over-Year (YoY) Growth
+- Interactive Dashboard Design
+---
 
 ## 🛠 Tools Used
 
@@ -65,7 +74,18 @@ This dashboard helps businesses monitor key performance indicators (KPIs) and ga
 - Dashboard Design
 
 ---
+## 💡 Skills Demonstrated
 
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Data Visualization
+- Dashboard Design
+- Business Analysis
+- KPI Reporting
+- Conditional Formatting
+- Excel Formulas
+---
 ## 📂 Dataset
 
 Superstore Sales Dataset
