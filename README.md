@@ -1,52 +1,93 @@
-Ecommerce Sales Analysis Dashboard
-Project Overview
+# 📊 Ecommerce Sales Analysis Dashboard
 
-This project presents an interactive Ecommerce Sales Dashboard built in Microsoft Excel to analyze sales performance, profitability, customer orders, and category-wise trends.
+An interactive **Ecommerce Sales Dashboard** built using **Microsoft Excel** to analyze sales performance, profitability, customer orders, and category-wise trends.
 
-The dashboard helps business users monitor KPIs and make data-driven decisions.
+---
 
-Dashboard Preview
+## 📸 Dashboard Preview
 
-Key KPIs
-1.Total Sales
-2.Total Profit
-3.Total Orders
-4.Total Quantity Sold
-5.Profit Margin
-6.Year-over-Year Growth
+> Upload your dashboard image inside the repository and rename it to **dashboard.png**
 
+![Dashboard](dashboard-esa.png)
 
-Features
+---
 
-1.KPI Cards
-2.Interactive Charts
-3.Waterfall Chart
-4.Donut Chart
-5.Monthly Sales Analysis
-6.Category-wise Profit
-7.YOY Growth Indicators
+## 🚀 Project Overview
 
+This dashboard helps businesses monitor key performance indicators (KPIs) and gain actionable insights from sales data.
 
-Tools Used
+---
 
+## 📌 Key Performance Indicators (KPIs)
 
-1.Microsoft Excel
-2.Pivot Tables
-3.Pivot Charts
-4.Slicers
-5.Conditional Formatting
-6.Formulas
-7.Dashboard Design
+- 💰 Total Sales
+- 💵 Total Profit
+- 📦 Total Quantity Sold
+- 🛒 Total Orders
+- 📈 Profit Margin
+- 📊 Year-over-Year (YoY) Growth
 
+---
 
-Dataset
+## ✨ Features
+
+- KPI Cards
+- Monthly Sales Analysis
+- Sales vs Profit Comparison
+- Category-wise Profit Analysis
+- Category-wise Sales Share
+- YoY Growth Indicators
+- Interactive Dashboard Design
+
+---
+
+## 🛠 Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- Excel Formulas
+- Dashboard Design
+
+---
+
+## 📂 Dataset
+
 Superstore Sales Dataset
 
+---
 
-Insights
+## 📈 Business Insights
 
+- Technology category generated the highest profit.
+- Furniture contributed the lowest profit margin.
+- Sales peaked during the festive season.
+- Although sales increased, profit margin declined.
 
-1.Technology contributes the highest profit.
-2.Furniture has the lowest profit margin.
-3.Monthly sales peak during the festive season.
-4.Profit margin decreased despite higher sales growth.
+---
+
+## 📁 Project Files
+
+```text
+📦 Ecommerce-Sales-Dashboard
+│── Ecommerce analysis.xlsx
+│── Ecommerce analysis(1).pdf
+│── dashboard-esa.png
+│── README.md
+```
+
+---
+
+## 👨‍💻 Author
+
+**Milind Khorgade**
+
+- GitHub: https://github.com/milind007K
+
+---
+
+## ⭐ If you like this project
+
+Give this repository a ⭐ on GitHub.
