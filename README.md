@@ -1,5 +1,7 @@
 # 📊 Ecommerce Sales Analysis Dashboard
+![Excel](https://img.shields.io/badge/Built%20With-Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)
 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 An interactive **Ecommerce Sales Dashboard** built using **Microsoft Excel** to analyze sales performance, profitability, customer orders, and category-wise trends.
 
 ---
